@@ -10,6 +10,7 @@
 @tailwind utilities;
 :root {
   font-family: "Yekan", sans-serif;
-  color-scheme: dark;
-  font-size: 19px;
+  
+  /* color-scheme: dark; */
+  font-size: 16px;
 }
