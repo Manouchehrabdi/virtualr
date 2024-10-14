@@ -13,10 +13,10 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: " صفحه اصلی ", href: "#" },
+  { label: " درباره ما", href: "#" },
   { label: "دوره ها", href: "#" },
   { label: "نظرات دانشجویان", href: "#" },
-  { label: " درباره ما", href: "#" },
+  { label: " صفحه اصلی ", href: "#" },
 ];
 
 export const testimonials = [
@@ -120,37 +120,47 @@ export const checklistItems = [
   },
 ];
 
-export const pricingOptions = [
+export const CoursesOptions = [
   {
-    title: "Free",
-    price: "$0",
+    title: "javascript",
+    price: "$500",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
+      "از مبتدی تا پیشرفته",
+      "پشتیبانی دائمی",
+      "بوت کمپ های رایگان",
+      "مسیر پروژه گرفتن از سایت های خارجی",
     ],
   },
   {
-    title: "Pro",
-    price: "$10",
+    title: "React",
+    price: "$600",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
-      "Private Mode",
+     "از مبتدی تا پیشرفته",
+      "پشتیبانی دائمی",
+      "بوت کمپ های رایگان",
+      "مسیر پروژه گرفتن از سایت های خارجی",
     ],
   },
   {
-    title: "Enterprise",
+    title: "Html & Css",
     price: "$200",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "از مبتدی تا پیشرفته",
+      "پشتیبانی دائمی",
+      "بوت کمپ های رایگان",
+      "مسیر پروژه گرفتن از سایت های خارجی",
     ],
   },
+  {
+    title: "TailwindCss",
+    price: "$350",
+    features: [
+      "از مبتدی تا پیشرفته",
+      "پشتیبانی دائمی",
+      "بوت کمپ های رایگان",
+      "مسیر پروژه گرفتن از سایت های خارجی",
+    ],
+  }
 ];
 
 export const resourcesLinks = [
