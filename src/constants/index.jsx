@@ -13,10 +13,10 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "تماس با ما", href: "#" },
-  { label: "فروشگاه", href: "#" },
-  { label: "محصولات", href: "#" },
-  { label: " صفحه نخست ", href: "#" },
+  { label: " صفحه اصلی ", href: "#" },
+  { label: "دوره ها", href: "#" },
+  { label: "نظرات دانشجویان", href: "#" },
+  { label: " درباره ما", href: "#" },
 ];
 
 export const testimonials = [
