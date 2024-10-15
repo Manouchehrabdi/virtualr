@@ -121,7 +121,9 @@ export const checklistItems = [
 ];
 
 export const CoursesOptions = [
-  {
+  
+  { 
+    
     title: "javascript",
     price: "$500",
     features: [
@@ -131,6 +133,7 @@ export const CoursesOptions = [
       "مسیر پروژه گرفتن از سایت های خارجی",
     ],
   },
+  
   {
     title: "React",
     price: "$600",
@@ -139,8 +142,10 @@ export const CoursesOptions = [
       "پشتیبانی دائمی",
       "بوت کمپ های رایگان",
       "مسیر پروژه گرفتن از سایت های خارجی",
+    
     ],
   },
+  
   {
     title: "Html & Css",
     price: "$200",
@@ -164,7 +169,7 @@ export const CoursesOptions = [
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
+  { href: "#", text: "Getting Started " ,  },
   { href: "#", text: "Documentation" },
   { href: "#", text: "Tutorials" },
   { href: "#", text: "API Reference" },

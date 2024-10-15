@@ -2,7 +2,7 @@ import video1 from "../assets/video/video1.mp4";
 import video2 from "../assets/video/video2.mp4";
 const HeroSection = () => {
   return (
-    <div className="flex  flex-col items-center mt-6 lg:mt-20">
+    <div className="flex  flex-col items-center mt-6 ">
       <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
         آموزش برنامه نویسی جاوااسکریپت و ریکت از
       </h1>
@@ -18,12 +18,10 @@ const HeroSection = () => {
         برنامه‌نویسی است، افزوده می‌شود
       </p>
       <div className="flex justify-center my-10">
-        <a
-          href="#"
-          className="bg-indigo-500 text-slate-50 py-3 px-4 mx-3 rounded-md"
-        >
-          مشاهده دوره
-        </a>
+        <a href="#" className="flex gap-2 bg-indigo-500 text-slate-50 py-3 px-4 mx-3 rounded-md">
+        <svg  xmlns="http://www.w3.org/2000/svg" width="15" viewBox="0 0 20.884 27.105"><path d="M9.358,6.463a5,5,0,0,1,8.388,0l4.347,6.7A5,5,0,0,1,17.9,20.884H9.205a5,5,0,0,1-4.194-7.722Z" transform="translate(0 27.105) rotate(-90)" fill="#ffff"></path></svg>
+
+          مشاهده دوره </a>
         <a
           href="#"
           className="py-3 px-4 mx-3 rounded-md bordre  bg-pink-100 text-indigo-800"
