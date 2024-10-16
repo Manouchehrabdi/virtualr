@@ -10,8 +10,8 @@ const App = () => {
       <Navbar />
       <div className="relative max-w-8xl max-auto pt-20 px-6 ">
         <HeroSection />
-        <Courses/>
-        <Slider/>
+        <Courses />
+        <Slider />
       </div>
     </>
   );
