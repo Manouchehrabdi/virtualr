@@ -11,6 +11,7 @@ import user3 from "../assets/profile-pictures/user3.jpg";
 import user4 from "../assets/profile-pictures/user4.jpg";
 import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
+import user7 from "../assets/profile-pictures/user7.jpg";
 
 export const navItems = [
   { label: " درباره ما", href: "#" },
@@ -54,6 +55,12 @@ export const testimonials = [
     user: "Emily Davis",
     company: "Synergy Systems",
     image: user6,
+    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+  },
+  {
+    user: "Emily Davis",
+    company: "Synergy Systems",
+    image: user7,
     text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
   },
 ];
