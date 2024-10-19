@@ -4,7 +4,7 @@ const Courses = () => {
       <h2 className="text-2 w-96  text-center my-8 tracking-wider text-slate-50 font-bold bg-indigo-800 py-3 px-4 mx-auto rounded-md">
         جدیدترین دوره های آموزشی برنامه نویسی
       </h2>
-      <div className="grid grid-cols-4 max-sm:grid-cols-1 gap-2 h- text-right mx-auto  md:w-3/4">
+      <div className="grid grid-cols-4 max-sm:grid-cols-1 md:grid-cols-4 gap-2  text-right mx-auto  md:w-3/4">
         <div className="p-10 shadow-2xl border-neutral-400 rounded-xl hover:bg-slate-100 ps-4   ">
          
             <div className="p-12 shadow-2xl border-neutral-400 rounded-xl hover:bg-slate-100 ps-4  ">
