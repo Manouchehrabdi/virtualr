@@ -126,75 +126,26 @@ export const checklistItems = [
       "Track the performance of your VR apps and gain insights into user behavior.",
   },
 ];
-
-export const CoursesOptions = [
-  
-  { 
-    
-    title: "javascript",
-    price: "$500",
-    features: [
-      "از مبتدی تا پیشرفته",
-      "پشتیبانی دائمی",
-      "بوت کمپ های رایگان",
-      "مسیر پروژه گرفتن از سایت های خارجی",
-    ],
-  },
-  
-  {
-    title: "React",
-    price: "$600",
-    features: [
-     "از مبتدی تا پیشرفته",
-      "پشتیبانی دائمی",
-      "بوت کمپ های رایگان",
-      "مسیر پروژه گرفتن از سایت های خارجی",
-    
-    ],
-  },
-  
-  {
-    title: "Html & Css",
-    price: "$200",
-    features: [
-      "از مبتدی تا پیشرفته",
-      "پشتیبانی دائمی",
-      "بوت کمپ های رایگان",
-      "مسیر پروژه گرفتن از سایت های خارجی",
-    ],
-  },
-  {
-    title: "TailwindCss",
-    price: "$350",
-    features: [
-      "از مبتدی تا پیشرفته",
-      "پشتیبانی دائمی",
-      "بوت کمپ های رایگان",
-      "مسیر پروژه گرفتن از سایت های خارجی",
-    ],
-  }
-];
-
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started " ,  },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "برای پردازش و اجرا به کامپایلر احتیاجی ندارد" ,  },
+  { href: "#", text: "یادگیری جاوا اسکریپت نسبت به خیلی از زبان‌های برنامه نویسی راحت‌تر است." },
+  { href: "#", text: "نسبت به زبان‌های برنامه نویسی دیگر سبک‌تر و سریع‌تر است." },
+  { href: "#", text: "امکان ایجاد صفحات وب تعاملی و پویا را به برنامه نویسان می‌دهد." },
+  { href: "#", text: "فریم ورک ها،کتابخانه‌ها و به صورت کلی ابزارهای بسیار زیادی را در اختیارتان قرار می‌دهد." },
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "ریکت چیست؟" },
+  { href: "#", text: "روش استفاده از ریکت چیست؟" },
+  { href: "#", text: "فریم ورک های کار با ریکت چیست؟" },
+  { href: "#", text: "انواع کامپوننت ها در ریکت چیست؟" },
+  { href: "#", text: "ویژگی های ریکت" },
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: " آشنایی با git" },
+  { href: "#", text: "نصب git" },
+  { href: "#", text: "ریپازیتوری و دستور init , status" },
+  { href: "#", text: "دستور add و commit" },
+  { href: "#", text: "فایل gitignore" },
 ];

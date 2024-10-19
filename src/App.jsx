@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import Courses from "./components/Courses";
 import Slider from "./components/Slider";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -12,6 +13,8 @@ const App = () => {
         <HeroSection />
         <Courses />
         <Slider />
+        <Footer />
+
       </div>
     </>
   );
