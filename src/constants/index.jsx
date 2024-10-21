@@ -14,12 +14,11 @@ import user6 from "../assets/profile-pictures/user6.jpg";
 import user7 from "../assets/profile-pictures/user7.jpg";
 
 export const navItems = [
-  { label: " درباره ما", href: "#" },
-  { label: "دوره ها", href: "#" },
-  { label: "نظرات دانشجویان", href: "#" },
+  { label: " درباره ما", href: "#Slider" },
+  { label: "دوره ها", href: "#Courses" },
+  { label: "نظرات دانشجویان", href: "#Slider" },
   { label: " صفحه اصلی ", href: "#" },
 ];
-
 export const testimonials = [
   {
     user: "John Doe",
@@ -127,7 +126,7 @@ export const checklistItems = [
   },
 ];
 export const resourcesLinks = [
-  { href: "#", text: "برای پردازش و اجرا به کامپایلر احتیاجی ندارد" ,  },
+  { href: "#", text: "برای پردازش و اجرا به کامپایلر احتیاجی ندارد", },
   { href: "#", text: "یادگیری جاوا اسکریپت نسبت به خیلی از زبان‌های برنامه نویسی راحت‌تر است." },
   { href: "#", text: "نسبت به زبان‌های برنامه نویسی دیگر سبک‌تر و سریع‌تر است." },
   { href: "#", text: "امکان ایجاد صفحات وب تعاملی و پویا را به برنامه نویسان می‌دهد." },

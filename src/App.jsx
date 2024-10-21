@@ -14,7 +14,6 @@ const App = () => {
         <Courses />
         <Slider />
         <Footer />
-
       </div>
     </>
   );

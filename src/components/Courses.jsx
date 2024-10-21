@@ -1,7 +1,7 @@
 const Courses = () => {
   return (
     <div className="mt-2 ">
-      <h2 className="text-2 w-96  text-center my-8 tracking-wider text-slate-50 font-bold bg-indigo-800 py-3 px-4 mx-auto rounded-md">
+      <h2 className="text-2 w-96  text-center my-8 tracking-wider text-slate-50 font-bold bg-indigo-800 py-3 px-4 mx-auto rounded-md" id="Courses">
         جدیدترین دوره های آموزشی برنامه نویسی
       </h2>
       <div className="grid  sm:grid-cols-1 lg:grid-cols-4 md:grid-cols-2  gap-4 px-28  text-right mx-auto  ">

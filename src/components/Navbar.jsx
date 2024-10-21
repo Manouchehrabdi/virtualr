@@ -15,8 +15,8 @@ const Navbar = () => {
       <div className="container px-4 mx-auto relative lg:text-sm">
         <div className="flex justify-between items-center">
           <div className="flex items-center flex-shrink-0">
-            <img className="h-10 w-10 mr-2" src={logo} alt="Logo" />
-            <a className="text-lg font-bold " href="#" >
+            <img className="h-7  w-20 mr-2" src={logo} alt="Logo" />
+            <a className="text-lg font-bold " href="#Courses" >
               Programing
             </a>
           </div>
@@ -29,13 +29,12 @@ const Navbar = () => {
           </ul>
           <div className="hidden lg:flex justify-center space-x-12 items-center ">
             <a
-              href="#"
-              className="py-2 px-3 border rounded-md bg-indigo-700 text-red-50	 "
-            >
+              href="Login"
+              className="py-2 px-3 border rounded-md bg-indigo-700 text-red-50">
               ورود
             </a>
             <a
-              href="#"
+              href="Login"
               className="py-2 px-3 border rounded-md bg-indigo-700 text-red-50"
             >
               ثبت نام
@@ -73,7 +72,7 @@ const Navbar = () => {
           </div>
         )}
       </div>
-    </nav>
+    </nav >
   );
 };
 
